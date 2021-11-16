@@ -51,6 +51,7 @@ return(
     <>
     <S.Paragraph>15% de desconto na primeira compra</S.Paragraph>
     <S.ParagraphWhats>Fale conosco via WhatsApp</S.ParagraphWhats>
+    
     </>
 )
     }
